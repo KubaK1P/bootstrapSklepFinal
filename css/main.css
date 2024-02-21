@@ -20,12 +20,18 @@ h3 {
   background: #c1face;
 }
 
+.list-group-item:hover {
+  background: #befa6e;
+  transition-duration: 200ms;
+}
+
 .card {
-  margin: 1rem;
+  margin: 0;
 }
 
 .nav-item {
   border-radius: 10px;
+  padding: 0.3rem;
 }
 
 .nav-item:hover {
