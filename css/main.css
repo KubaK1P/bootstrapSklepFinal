@@ -23,3 +23,12 @@ h3 {
 .card {
   margin: 1rem;
 }
+
+.nav-item {
+  border-radius: 10px;
+}
+
+.nav-item:hover {
+  background: #befa6e;
+  transition-duration: 200ms;
+}
