@@ -1,3 +1,25 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
 .container {
   background: #c1face;
+}
+.image {
+  padding: 2rem;
+}
+h2,
+h3 {
+  padding: 2rem;
+  background-color: #7bcf5d;
+  border-radius: 15px;
+  margin: 1rem;
+}
+
+.list-group-item {
+  background: #c1face;
+}
+
+.card {
+  margin: 1rem;
 }
