@@ -27,7 +27,7 @@ h3 {
 
 .card {
   margin: 1rem;
-  background-color: #6efa8d;
+  background-color: #c1face;
   height: 100%;
 }
 
@@ -70,4 +70,9 @@ form {
   border: 2px solid #52be6a;
   background: #6efa8d;
   margin-bottom: 3rem;
+}
+
+.accordion {
+  background-color: #7bcf5d;
+  border-radius: 15px;
 }
