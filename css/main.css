@@ -27,6 +27,31 @@ h3 {
 
 .card {
   margin: 0;
+  background-color: #6efa8d;
+  height: 100%;
+}
+
+.card-img-top {
+  height: 300px;
+}
+
+.btn {
+  background: #6efaeb;
+  border: 1px solid #5ac9be;
+  color: black;
+}
+
+.btn:hover {
+  background: #befa6e;
+  border: 1px solid #8ab652;
+  color: black;
+}
+
+.blue {
+  background: #6efa8d;
+  padding: 2rem;
+  font-size: large;
+  border: 2px solid white;
 }
 
 .nav-item {
